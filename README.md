@@ -65,7 +65,7 @@ Paste the following JSON code and replace `<your-bucket-name>`:
 
 🔹 [**S3 Bucket Static Website Hosting Settings**](assets/Screenshot 2025-02-08 234721.png) 
 
-🔹 [**Uploaded index.html and error.html**]()
+🔹 [**Uploaded index.html and error.html**](assets/Screenshot 2025-02-09 002152.png)
 
 🔹 [**Bucket Policy Configuration**](assets/Screenshot 2025-02-08 234824.png)
 
