@@ -7,8 +7,8 @@ This project demonstrates how to host a **static website** using **Amazon S3**. 
 The goal of this project is to showcase my ability to configure AWS S3 for static website hosting, set appropriate permissions, and ensure reliable website accessibility. This setup is ideal for hosting portfolios, documentation, and other static web pages.
 
 ## 🔗 Live Website URL
-**[Copy the link below to your browser to View the Hosted Website]
-'http://static-website-hosting-on-s3-bucket.s3-website-us-east-1.amazonaws.com/' 
+**Copy the link below to your browser to View the Hosted Website**
+'http://static-website-hosting-on-s3-bucket.s3-website-us-east-1.amazonaws.com' 
 
 ---
 
