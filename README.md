@@ -68,20 +68,30 @@ Paste the following JSON code and replace `<your-bucket-name>`:
 ![**S3 Bucket Static Website Hosting Settings**](assets/Screenshot_2025_02_08_234721.png)
 
 
+
+
 ### Uploaded index.html and error.html
 ![**Uploaded index.html and error.html**](assets/Screenshot_2025_02_09_002152.png)
+
+
 
 
 ### Bucket Policy Configuration
 ![**Bucket Policy Configuration**](assets/Screenshot_2025_02_08_234824.png)
 
 
+
+
 ### Live Website Working in Browser 
 ![**Live Website Working in Browser**](assets/Screenshot_2025_02_09_000835.png)
 
 
+
+
 ### Allowing public access
 ![**Allowing public access**](assets/Screenshot_2025_02_08_234802.png)
+
+
 
 
 ---
