@@ -96,11 +96,11 @@ Paste the following JSON code and replace `<your-bucket-name>`:
 
 ## 🤝 Connect with Me
 If you have any questions or feedback, feel free to reach out:
-📧 Email: dhwarakesh99@gmail.com 
+📧 Email: dhwarakesh99@gmail.com
+---
 💼 LinkedIn: https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292  
+---
 📂 GitHub: https://github.com/git-hub-user7
 
 ---
-
-### ⭐ If you found this project useful, please give it a star on GitHub! ⭐
 
