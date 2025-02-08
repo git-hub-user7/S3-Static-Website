@@ -8,7 +8,7 @@ The goal of this project is to showcase my ability to configure AWS S3 for stati
 
 ## 🔗 Live Website URL
 **Copy the link below to your browser to View the Hosted Website**
-' http://static-website-hosting-on-s3-bucket.s3-website-us-east-1.amazonaws.com ' 
+'//http://static-website-hosting-on-s3-bucket.s3-website-us-east-1.amazonaws.com/' 
 
 ---
 
